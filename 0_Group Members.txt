@@ -1,0 +1,9 @@
+Topic : Option 7 - Predict the price of airline ticket prices given day, time, location, etc. using learning
+mechanism.
+
+
+19ucs090 Niket Mittal
+19ucs110 Divyansh Bhadauria
+19ucs111 Rohan Singh Chauhan
+19ucs165 Vinayak Singh
+19ucs182 Sagar Mittal
